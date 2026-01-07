@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2026-01-07",
+    "owner": "CloudMall",
+    "note": "Public IPTV streams"
+  },
+  "channels": [
+    {
+      "id": "example_channel",
+      "name": "Example TV",
+      "category": "News",
+      "logo": "https://example.com/logo.png",
+      "active": true,
+
+      "playback": {
+        "primary": {
+          "type": "iframe",
+          "url": ""
+        },
+        "fallback": {
+          "type": "hls",
+          "url": ""
+        }
+      }
+    }
+  ]
+}
