@@ -165,14 +165,14 @@
           }
         },
         {
-          "id": "starz",
-          "name": "Starz",
-          "logo": "https://logo.clearbit.com/starz.com",
+          "id": "Young Hollywood",
+          "name": "Young Hollywood",
+          "logo": "https://logo.clearbit.com/young-hollywood.com",
           "country": "US",
           "priority": "player",
           "streams": {
             "iframe": "",
-            "hls": "https://stream.example.com/starz.m3u8",
+            "hls": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
             "backup": []
           }
         },
